@@ -1,1 +1,1 @@
-My first readme
+My journey to becoming a Software developer
